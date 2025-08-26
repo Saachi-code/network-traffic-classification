@@ -36,8 +36,21 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
+📺 Demo
+
+See video/PACKET_CLASSIFICATION_2.mp4.
+
+⸻
+
+⚠️ Notes
+	•	Packet capture may require admin/root privileges.
+	•	If you see missing-module errors, add them to requirements.txt and re-install.
+
+⸻
+
 📚 Citation
 
-If you reference this work, please cite:
+If you reference this project, please cite:
 
-Jaiswal, S. et al., An Efficient Traffic Monitoring and Identification Based on Categorization in Internet Access, B.Tech Final Project, TKR College of Engineering & Technology, 2022.
+Jaiswal, S. An Efficient Traffic Monitoring and Identification Based on Categorization in Internet Access.
+B.Tech Final Project, TKR College of Engineering & Technology, 2022.
