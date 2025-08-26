@@ -36,19 +36,19 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
-📺 Demo
+ ## 📺 Demo
 
 See video/PACKET_CLASSIFICATION_2.mp4.
 
 ⸻
 
-⚠️ Notes
+## ⚠️ Notes
 	•	Packet capture may require admin/root privileges.
 	•	If you see missing-module errors, add them to requirements.txt and re-install.
 
 ⸻
 
-📚 Citation
+## 📚 Citation
 
 If you reference this project, please cite:
 
