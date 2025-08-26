@@ -52,13 +52,3 @@ If you reference this project, please cite:
 
 Jaiswal, S. *An Efficient Traffic Monitoring and Identification Based on Categorization in Internet Access*.  
 B.Tech Final Project, TKR College of Engineering & Technology, 2022.  
-
-BibTeX:
-
-@report{Jaiswal_TrafficClassification_2022,  
-  title   = {An Efficient Traffic Monitoring and Identification Based on Categorization in Internet Access},  
-  author  = {Saachi Jaiswal},  
-  year    = {2022},  
-  institution = {TKR College of Engineering & Technology},  
-  note    = {B.Tech Final Project}  
-}
